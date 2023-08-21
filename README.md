@@ -25,15 +25,16 @@ To use the Project X software, follow these steps:
 LaelCorp-ProjectX
 ├── main.py
 ├── analytics
-│ ├── data_processing.py
-│ ├── visualization.py
-│ └── reporting.py
+│   ├── data_processing.py
+│   ├── visualization.py
+│   └── reporting.py
 ├── tests
-│ ├── test_data_processing.py
-│ ├── test_visualization.py
-│ └── test_reporting.py
+│   ├── test_data_processing.py
+│   ├── test_visualization.py
+│   └── test_reporting.py
 ├── README.md
 └── LICENSE
+
 
 
 ## License
